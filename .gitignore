@@ -1,0 +1,22 @@
+#VScode
+.vscode/
+
+# environment files
+.venv
+
+# Python cache files
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directories
+data/
+data_clean/
+data_raw/
+
+# PowerBI
+*.pbix
+
+#egg-info
+*.egg-info/
